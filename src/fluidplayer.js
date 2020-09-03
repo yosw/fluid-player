@@ -4,14 +4,12 @@
 import VPAIDModule from './modules/vpaid';
 import VASTModule from './modules/vast';
 import AdSupportModule from './modules/adsupport';
-import StreamingModule from './modules/streaming';
 import UtilsModule from './modules/utils'
 
 const FP_MODULES = [
     VPAIDModule,
     VASTModule,
     AdSupportModule,
-    StreamingModule,
     UtilsModule
 ];
 
