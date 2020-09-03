@@ -3,7 +3,6 @@
 // Player modules
 import VPAIDModule from './modules/vpaid';
 import VASTModule from './modules/vast';
-import TimelineModule from './modules/timeline';
 import AdSupportModule from './modules/adsupport';
 import StreamingModule from './modules/streaming';
 import UtilsModule from './modules/utils'
@@ -11,7 +10,6 @@ import UtilsModule from './modules/utils'
 const FP_MODULES = [
     VPAIDModule,
     VASTModule,
-    TimelineModule,
     AdSupportModule,
     StreamingModule,
     UtilsModule
